@@ -1,5 +1,5 @@
 ### CROWDFUNDING WEB-BASED APPLICATION BASED ON BLOCKCHAIN
-CLIENT
+## CLIENT
 ## Getting Started
 
 Create a project using this example:
@@ -33,7 +33,7 @@ To learn more about thirdweb, Vite and React, take a look at the following resou
 - [React documentation](https://reactjs.org/) - learn React.
 
 You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
- WEB3
+## WEB3
  ## Getting Started
 
 Create a project using this example:
